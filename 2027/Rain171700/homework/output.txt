@@ -1,0 +1,17 @@
+===== System Time =====
+2026-10-23 00:25:31
+
+===== Last 10 Commands =====
+git switch -c feature/first-homework
+mkdir -p 2027/Rain171700/notes
+mkdir -p 2027/Rain171700/homework
+ls -R 2027/Rain171700
+sudo apt install nano -y
+nano 2027/Rain171700/notes/linux_notes.md
+ls -l 2027/Rain171700/notes/
+nano 2027/Rain171700/homework/homework.sh
+chmod +x 2027/Rain171700/homework/homework.sh
+history -a
+
+===== Notes Character Count =====
+1346
