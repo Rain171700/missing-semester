@@ -1,17 +1,17 @@
 ===== System Time =====
-2026-10-23 00:25:31
+2026-10-23 01:17:09
 
 ===== Last 10 Commands =====
-git switch -c feature/first-homework
-mkdir -p 2027/Rain171700/notes
-mkdir -p 2027/Rain171700/homework
-ls -R 2027/Rain171700
-sudo apt install nano -y
+git config --global user.name "Rain171700"
+git config --global user.email "478499191@qq.com"
+git commit -m "Add first Linux training homework."
+git push -u origin feature/first-homework
+cd ~/missing-semester
 nano 2027/Rain171700/notes/linux_notes.md
-ls -l 2027/Rain171700/notes/
-nano 2027/Rain171700/homework/homework.sh
-chmod +x 2027/Rain171700/homework/homework.sh
+git add 2027/Rain171700/notes/linux_notes.md
+git commit -m "Improve Linux training notes."
+git push
 history -a
 
 ===== Notes Character Count =====
-1346
+1329
