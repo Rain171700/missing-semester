@@ -1,6 +1,6 @@
-# Linux、Shell、Vim、Git 与 GitHub 学习笔记
+Linux、Shell、Vim、Git 与 GitHub 学习笔记
 
-## 一、Linux 基础
+一、Linux 基础
 
 Linux 是操作系统内核，Ubuntu 是常见的 Linux 发行版。Ubuntu 广泛应用于机器人开发、服务器和嵌入式系统。
 
@@ -18,7 +18,7 @@ Linux 文件系统以 `/` 为根目录。
 
 Linux 文件名区分大小写。
 
-## 二、Shell 基础
+二、Shell 基础
 
 Terminal 是终端界面，Shell 是负责解释和执行命令的程序。
 
@@ -42,7 +42,7 @@ Shell 常见操作：
 - `&&`：前一条命令成功后执行后一条
 - `$变量名`：引用变量
 
-## 三、Vim 编辑器
+三、Vim 编辑器
 
 Vim 是 Linux 中常见的文本编辑器。
 
@@ -65,7 +65,7 @@ Vim 有三种常用模式：
 - `p`：粘贴
 - `u`：撤销
 
-## 四、Git 与 GitHub
+四、Git 与 GitHub
 
 Git 是分布式版本控制工具，GitHub 是远程代码托管与团队协作平台。
 
@@ -91,7 +91,7 @@ GitHub 团队协作流程：
 
 Fork → Clone → Branch → 修改文件 → Add → Commit → Push → Pull Request → Review → Merge。
 
-## 五、学习心得
+五、学习心得
 
 通过第一课，我了解了 Linux 开发环境的基本结构，也初步掌握了终端操作、文本编辑和 Git 版本控制的基本流程。
 
